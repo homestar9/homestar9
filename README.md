@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Dave Levin
+
+I am the CEO of Angry Sam Productions, Inc and a freelance website designer and developer. I also create and contribute to open source community projects.
+
+Some of my projects:
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/homestar9/mixr"><img width="100" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/mixr/refs/heads/master/mixr-logo.webp"></a>
+    <a href="https://github.com/homestar9/breadcrumb-buddy"><img width="100" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/breadcrumb-buddy/refs/heads/master/breadcrumb-buddy.svg"></a>
+    <a href="https://github.com/homestar9/rememberMe"><img width="100" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/rememberMe/refs/heads/master/rememberMe.svg"></a>
+</div>
 
 <!--
 **homestar9/homestar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
