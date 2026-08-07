@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Dave Levin
 
-I am the CEO of Angry Sam Productions, Inc and a freelance website designer and developer. I also create and contribute to open source community projects.
+I am the CEO of [Angry Sam Productions, Inc and a freelance website designer and developer](https://www.angrysam.com). I also create and contribute to open source community projects.
 
 Some of my featured public projects (alphabetical order):
 
