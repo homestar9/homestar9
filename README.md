@@ -14,7 +14,6 @@ Some of my featured public projects (alphabetical order):
     <a href="https://github.com/homestar9/remember-me"><img width="120" height="120" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/homestar9/refs/heads/main/images/remember-me.avif" alt="remember-me"></a>
     <a href="https://github.com/homestar9/schema-org"><img width="120" height="120" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/homestar9/refs/heads/main/images/schema-org.avif" alt="schema-org"></a>
     <a href="https://github.com/homestar9/sitemap-spider"><img width="120" height="120" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/homestar9/refs/heads/main/images/sitemap-spider.avif" alt="sitemap-spider"></a>
-    <a href="https://github.com/homestar9/rememberMe"><img width="100" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com/homestar9/homestar9/refs/heads/main/images/rememberMe.svg" alt="rememberMe"></a>
     <a href="https://github.com/homestar9/webp"><img width="100" style="padding: 0 0.5rem;" src="https://raw.githubusercontent.com//homestar9/homestar9/refs/heads/main/images/webp.avif" alt="webp"></a>
 </div>
 
